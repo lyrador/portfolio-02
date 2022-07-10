@@ -81,15 +81,15 @@ export default {
 			},
 		],
 		software: [
-			// {
-			// 	projectName: "Pizza Ordering ChatBot",
-			// 	image: "images/pizzaorderchatbot.png",
-			// 	summary:
-			// 		"ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
-			// 	preview:
-			// 		"https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
-			// 	techStack: ["Dailogflow", "Firebase"],
-			// },
+			{
+				projectName: "NUS Society",
+				image: "images/nusociety.png",
+				summary:
+					"NUSociety is an all-in-one co-curricular activities (Society) portal for NUS students, providing a one-stop platform for students to find information about student societies and events, sign up for them, network and communicate within and across organisations and keep track of their involvement with management capabilities.",
+				preview:
+					"https://github.com/lyrador",
+				techStack: ["Angular", "JSF", "JavaScript", "Glassfish"],
+			},
 			// {
 			// 	projectName: "WhatsApp-Bot",
 			// 	image: "images/whatsappbot.jpg",
@@ -151,7 +151,7 @@ export default {
 			duration: "May 2022 - Present",
 			subtitle: "Software Engineer Intern",
 			details: [
-				"Full stack development."
+				"Full stack development with Angular and Spring."
 			],
 			tags: [
 				"JavaScript",
@@ -168,7 +168,7 @@ export default {
 			duration: "May 2021 - August 2021",
 			subtitle: "Game Developer Intern",
 			details: [
-				"Utilised Lua to create a new EdTech game called Ottoworld: Parkour Rangers, with the Alpha Version released in July 2021, currently at 500, 000+ total visits.",
+				"Utilised Lua to create a new EdTech game called Ottoworld: Parkour Rangers, with the Alpha Version released in July 2021, currently at 1 million+ total visits.",
 				"Collaborated with and co-developed games with international developers and designers.",
 				"Provided suggestions and presented new ideas to the management as well as improved on and debugged games.",
 				"Designed Unified Modelling Language (UML) diagrams to assist in code organisation and structuring.",
