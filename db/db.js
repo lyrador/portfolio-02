@@ -85,7 +85,7 @@ export default {
 				projectName: "NUS Society",
 				image: "images/nusociety.png",
 				summary:
-					"NUSociety is an all-in-one co-curricular activities portal for NUS students with management capabilities, providing a one-stop platform for students to find information about societies and events, sign up for them, network and communicate within and across organisations.",
+					"NUSociety is an all-in-one co-curricular activities portal for NUS students with management capabilities, providing a one-stop platform for students to find information and sign up for societies and events, and network within and across organisations.",
 				preview:
 					"https://github.com/lyrador",
 				techStack: ["Angular", "JSF", "JavaScript", "Glassfish"],
@@ -108,14 +108,14 @@ export default {
 			// },
 		],
 		android: [
-			// {
-			// 	projectName: "NITW-CSE",
-			// 	image: "images/nitwcse.jpg",
-			// 	summary:
-			// 		"The Application display details of Department courses, reference books, research, publication and faculty profile.",
-			// 	preview: "https://github.com/vinaysomawat/NITW-CSE",
-			// 	techStack: ["JAVA", "XML", "Android"],
-			// },
+			{
+				projectName: "Easy Delivery",
+				image: "images/easydelivery.png",
+				summary:
+					"An on-demand delivery application designed with an Enterprise Architecure System using Unified Modelling Diagrams (UML), including creation of high fidelity wireframs and mockups",
+				preview: "https://github.com/lyrador",
+				techStack: ["Figma", "Visual Paradigm", "UML"],
+			},
 			// {
 			// 	projectName: "CareerHigh-App",
 			// 	image: "images/carrerhigh.png",
@@ -177,19 +177,20 @@ export default {
 			],
 			tags: [
 				"Lua",
+				"UML Diagrams",
+				"Figma",
 			],
 			icon: "qrcode",
 		},
 	],
 	education: [
 		{
-			title: "Bachelors in Information Systems with Honours",
+			title: "Bachelor of Computing in Information Systems",
 			duration: "Aug 2020 - May 2024",
 			subtitle: "National Univerisity of Singapore, Singapore",
 			details: [
 				"Cumulative GPA: 4.37",
-				"Intended Specialisation Track: Financial Technology (Fintech)",
-				"Expected Date of Graduation: May 2024",
+				"Intended Specialisation Track: Financial Technology (FinTech)",
 				"Relevant Coursework:",
 				"IDT*CS2040 Data Structures and Algorithms", 
 				"IDT*CS2105 Introduction to Computer Networks",
@@ -207,7 +208,7 @@ export default {
 			icon: "graduation-cap",
 		},
 		{
-			title: "Singapore-Cambridge GCE Advanced Level",
+			title: "Singapore-Cambridge GCE A-Level",
 			duration: "Jan 2016 - Dec 2017",
 			subtitle: "Victoria Junior College, Singapore",
 			details: [

@@ -176,6 +176,7 @@ function populateExp_Edu(items, id) {
 		spanTimelineSublabel.className = "timeline-sublabel";
 		spanTimelineSublabel.innerHTML = items[i].subtitle;
 
+		document.createElement("br");
 		let spanh2 = document.createElement("span");
 		spanh2.innerHTML = items[i].duration;
 
