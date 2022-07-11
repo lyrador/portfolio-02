@@ -165,7 +165,7 @@ export default {
 		},
 		{
 			title: "Ottodot",
-			duration: "May 2021 - August 2021",
+			duration: "May 2021 - Aug 2021",
 			subtitle: "Game Developer Intern",
 			details: [
 				"Utilised Lua to create a new EdTech game called Ottoworld: Parkour Rangers, with the Alpha Version released in July 2021, currently at 1 million+ total visits.",
@@ -184,23 +184,25 @@ export default {
 	education: [
 		{
 			title: "Bachelors in Information Systems with Honours",
-			duration: "",
+			duration: "Aug 2020 - May 2024",
 			subtitle: "National Univerisity of Singapore, Singapore",
 			details: [
-				"-",
-				"-",
-				"-",
+				"Cumulative GPA: 4.37",
+				"Intended Specialisation Track: Financial Technology (Fintech)",
+				"Expected Date of Graduation: May 2024",
+				"Relevant Coursework: CS2030 Programming Methodology II, CS2040 Data Structures and Algorithms, IS2102 Enterprise Systems Architecture and Design, IS2103 Enterprise Systems Server-side Design and Development, IS3106 Enterprise Systems Interface Design and Development, BT2102 Data Management and Visualisation, CS2105 Introduction to Computer Networks",
 			],
 			tags: [
 				"Data Structures & Algorithms",
 				"Database Management System",
 				"Computer Networks",
+				"Enterprise Architecture Design",
 			],
 			icon: "graduation-cap",
 		},
 		{
 			title: "Singapore-Cambridge GCE Advanced Level",
-			duration: "",
+			duration: "Jan 2016 - Dec 2017",
 			subtitle: "Victoria Junior College, Singapore",
 			details: [
 				"Secured 83.75/90 RP in GCE Advanced Level Examinations.",
