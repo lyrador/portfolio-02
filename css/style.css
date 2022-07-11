@@ -129,8 +129,8 @@ figure figcaption {
 
 
 @keyframes animatedBackground {
-    from { background-position: 0 0; }
-    to { background-position: 0 100%; }
+    from { background-position: 0 100%; }
+    to { background-position: 0 0; }
 }
 
 #colorlib-page {
@@ -140,7 +140,7 @@ figure figcaption {
 	background-image: url('../images/bg_star.webp');
 	background-position: 0px 0px;
     background-repeat: repeat;
-    animation: animatedBackground 140s linear infinite;
+    animation: animatedBackground 120s linear infinite;
 }
 
 /* #animate-area   { 
