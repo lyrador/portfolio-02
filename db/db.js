@@ -85,7 +85,7 @@ export default {
 				projectName: "NUS Society",
 				image: "images/nusociety.png",
 				summary:
-					"An all-in-one co-curricular activities portal for NUS students with management capabilities, providing a one-stop platform to find information and sign up for societies and events, and network within and across organisations.",
+					"An all-in-one co-curricular activities portal for students with management capabilities, providing a one-stop platform to explore and sign up for societies and events, networking within and across organisations.",
 				preview:
 					"https://github.com/lyrador",
 				techStack: ["Angular", "JSF", "JavaScript", "Glassfish"],
