@@ -200,7 +200,9 @@ figure figcaption {
 #colorlib-aside .author-img img{
 	height: 100%; 
     object-fit: contain;
-	padding: 30px;
+	/* padding: 30px; */
+	border-color: white;
+	border-width: thick;
 }
 #colorlib-aside h1 {
 	font-family: "Raleway", sans-serif;
