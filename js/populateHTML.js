@@ -193,7 +193,8 @@ function populateExp_Edu(items, id) {
 			pTimelineText.className = "timeline-text";
 			console.log(items[i].details[j]);
 			if (items[i].details[j].valueOf().substring(0, 4) === "IDT*") {
-				pTimelineText.innerHTML = "&nbsp; " + "&blackcircle; " + items[i].details[j].substring(4);
+				pTimelineText.innerHTML = "&nbsp;" + "&blacksquare; " + items[i].details[j].substring(4);
+				pTimelineText.style.marginLeft = "15px";
 			} else {
 				pTimelineText.innerHTML = "&blacksquare; " + items[i].details[j];
 			}
