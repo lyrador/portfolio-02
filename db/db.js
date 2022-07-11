@@ -85,7 +85,7 @@ export default {
 				projectName: "NUS Society",
 				image: "images/nusociety.png",
 				summary:
-					"NUSociety is an all-in-one co-curricular activities portal for NUS students with management capabilities, providing a one-stop platform for students to find information and sign up for societies and events, and network within and across organisations.",
+					"An all-in-one co-curricular activities portal for NUS students with management capabilities, providing a one-stop platform to find information and sign up for societies and events, and network within and across organisations.",
 				preview:
 					"https://github.com/lyrador",
 				techStack: ["Angular", "JSF", "JavaScript", "Glassfish"],
@@ -208,12 +208,12 @@ export default {
 			icon: "graduation-cap",
 		},
 		{
-			title: "Singapore-Cambridge GCE A-Level",
+			title: "Singapore-Cambridge GCE Advanced-Level Certificate",
 			duration: "Jan 2016 - Dec 2017",
 			subtitle: "Victoria Junior College, Singapore",
 			details: [
-				"Secured 83.75/90 RP in GCE Advanced Level Examinations.",
-				"Attained multiple awards, such as the Edusave Awards for Achievement, Good Leadership and Service, which is awarded to recognize pupil's leadership qualities, community services rendered and excellence in non-academic activities, as well as Gold Distinction Award for Guitar Ensemble",
+				"Secured 83.75/90 RP in GCE A-Level Examinations.",
+				"Attained multiple awards, such as the Edusave Awards for Achievement, Good Leadership and Service, awarded to recognize pupil's leadership qualities, services rendered and excellence in non-academic activities, as well as SYF Distinction Award for Guitar Ensemble",
 			],
 			tags: ["Biology", "Chemistry", "Mathematics", "Economics"],
 			icon: "book",

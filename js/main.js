@@ -325,4 +325,12 @@ var accordion = new Accordion($("#accordion"), false);
 function enableDarkMode() {
 	var element = document.body;
 	element.classList.toggle("light-mode");
+	let tempToggle = getElement('div','#colorlib-page');
+	tempToggle.style.overflow = "none";
+}
+
+function getElement(tagName,className) {
+	let item = document.createElement(tagName);
+	item.className = className;
+	return item;
 }
