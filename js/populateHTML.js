@@ -192,7 +192,7 @@ function populateExp_Edu(items, id) {
 			let pTimelineText = document.createElement("p");
 			pTimelineText.className = "timeline-text";
 			console.log(items[i].details[j]);
-			if (items[i].details[j].substring(0, 4) == "IDT*") {
+			if (items[i].details[j].valueOf().substring(0, 4) === "IDT*") {
 				pTimelineText.innerHTML = "&nbsp; " + "&blackcircle; " + items[i].details[j].substring(4);
 			} else {
 				pTimelineText.innerHTML = "&blacksquare; " + items[i].details[j];
