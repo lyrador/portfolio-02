@@ -184,20 +184,19 @@ export default {
 	education: [
 		{
 			title: "Bachelors in Information Systems with Honours",
-			duration: "",
+			duration: "Aug 2020 - May 2024",
 			subtitle: "National Univerisity of Singapore, Singapore",
 			details: [
 				"Cumulative GPA: 4.37",
 				"Intended Specialisation Track: Financial Technology (Fintech)",
 				"Expected Date of Graduation: May 2024",
 				"Relevant Coursework:",
-				"IDT*CS2030 Programming Methodology II", 
 				"IDT*CS2040 Data Structures and Algorithms", 
+				"IDT*CS2105 Introduction to Computer Networks",
+				"IDT*BT2102 Data Management and Visualisation", 
 				"IDT*IS2102 Enterprise Systems Architecture and Design", 
 				"IDT*IS2103 Enterprise Systems Server-side Design and Development", 
 				"IDT*IS3106 Enterprise Systems Interface Design and Development", 
-				"IDT*BT2102 Data Management and Visualisation", 
-				"IDT*CS2105 Introduction to Computer Networks",
 			],
 			tags: [
 				"Data Structures & Algorithms",
@@ -209,7 +208,7 @@ export default {
 		},
 		{
 			title: "Singapore-Cambridge GCE Advanced Level",
-			duration: "",
+			duration: "Jan 2016 - Dec 2017",
 			subtitle: "Victoria Junior College, Singapore",
 			details: [
 				"Secured 83.75/90 RP in GCE Advanced Level Examinations.",
