@@ -204,6 +204,7 @@ export default {
 				"Database Management System",
 				"Computer Networks",
 				"Enterprise Architecture Design",
+				"Software Development",
 			],
 			icon: "graduation-cap",
 		},
