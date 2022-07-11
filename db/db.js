@@ -184,7 +184,7 @@ export default {
 	education: [
 		{
 			title: "Bachelors in Information Systems with Honours",
-			duration: "Aug 2020 - May 2024",
+			duration: "",
 			subtitle: "National Univerisity of Singapore, Singapore",
 			details: [
 				"Cumulative GPA: 4.37",
@@ -202,7 +202,7 @@ export default {
 		},
 		{
 			title: "Singapore-Cambridge GCE Advanced Level",
-			duration: "Jan 2016 - Dec 2017",
+			duration: "",
 			subtitle: "Victoria Junior College, Singapore",
 			details: [
 				"Secured 83.75/90 RP in GCE Advanced Level Examinations.",
