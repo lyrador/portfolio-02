@@ -139,7 +139,7 @@ figure figcaption {
 	background-image: url('../images/bg_star.webp');
 	background-position: 0px 0px;
     background-repeat: repeat;
-    animation: animatedBackground 180s linear infinite;
+    animation: animatedBackground 140s linear infinite;
 }
 
 /* #animate-area   { 

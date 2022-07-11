@@ -85,7 +85,7 @@ export default {
 				projectName: "NUS Society",
 				image: "images/nusociety.png",
 				summary:
-					"NUSociety is an all-in-one co-curricular activities (Society) portal for NUS students, providing a one-stop platform for students to find information about student societies and events, sign up for them, network and communicate within and across organisations and keep track of their involvement with management capabilities.",
+					"NUSociety is an all-in-one co-curricular activities portal for NUS students with management capabilities, providing a one-stop platform for students to find information about societies and events, sign up for them, network and communicate within and across organisations.",
 				preview:
 					"https://github.com/lyrador",
 				techStack: ["Angular", "JSF", "JavaScript", "Glassfish"],
@@ -125,25 +125,25 @@ export default {
 			// 	techStack: ["JAVA", "XML", "Android"],
 			// },
 		],
-		// freelance: [
-		// 	{
-		// 		projectName: "SnylloAir.com",
-		// 		image: "images/snylloair.png",
-		// 		summary:
-		// 			"Developed a company website to showcase the purpose, services and products provided by the company to audience.",
-		// 		preview: "https://www.snylloair.com/",
-		// 		techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
-		// 	},
-		// 	{
-		// 		projectName: "Delivery+",
-		// 		image: "images/AM-Logo-.png",
-		// 		summary:
-		// 			"Android Application to display website in android devices.",
-		// 		preview:
-		// 			"https://play.google.com/store/apps/details?id=com.americanmarket.americanmarketandroid",
-		// 		techStack: ["Android", "JAVA", "Play Store"],
-		// 	},
-		// ],
+		freelance: [
+			// {
+			// 	projectName: "SnylloAir.com",
+			// 	image: "images/snylloair.png",
+			// 	summary:
+			// 		"Developed a company website to showcase the purpose, services and products provided by the company to audience.",
+			// 	preview: "https://www.snylloair.com/",
+			// 	techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
+			// },
+			// {
+			// 	projectName: "Delivery+",
+			// 	image: "images/AM-Logo-.png",
+			// 	summary:
+			// 		"Android Application to display website in android devices.",
+			// 	preview:
+			// 		"https://play.google.com/store/apps/details?id=com.americanmarket.americanmarketandroid",
+			// 	techStack: ["Android", "JAVA", "Play Store"],
+			// },
+		],
 	},
 	experience: [
 		{
