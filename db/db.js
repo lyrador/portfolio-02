@@ -113,7 +113,7 @@ export default {
 				image: "images/easydelivery.png",
 				summary:
 					"An on-demand delivery application designed with an Enterprise Architecure System using Unified Modelling Diagrams (UML), including creation of high fidelity wireframs and mockups",
-				preview: "https://github.com/lyrador",
+				preview: "https://drive.google.com/file/d/1t8CGnyNMueAyY6JDsasN1kMrgFAfiR-A/view?usp=sharing",
 				techStack: ["Figma", "Visual Paradigm", "UML"],
 			},
 			// {
@@ -151,7 +151,12 @@ export default {
 			duration: "May 2022 - Present",
 			subtitle: "Software Engineer Intern",
 			details: [
-				"Full stack development with Angular and Spring."
+				"Participated in 4-5 sprints, utilised Angular for front-end development and Spring, SQL and Oracle for back-end.",
+				"Translated user stories to source codes, created multiple runnable features and modularised components. ",
+				"Rewrote outdated codes to conform to coding standards and reduced assigned flags in Fortify report by over 60%.",
+				"Carried out unit testing, integration testing and user acceptance testing, recorded results to ensure the quality of the features.",
+				"Created and updated documentation (eg. acceptance criteria) in line with project’s expectations.",
+				"Attended and passed courses on Agile Methodology and SCRUM Framework, utilising the concepts to work more effectively as a team in daily development work.",
 			],
 			tags: [
 				"JavaScript",
