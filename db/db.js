@@ -33,12 +33,12 @@ export default {
 			color: "2",
 			percentage: "40",
 		},
-		// {
-		// 	title: "Clouds",
-		// 	skillName: "AWS(EC2, S3), Heroku, Netlify",
-		// 	color: "3",
-		// 	percentage: "30",
-		// },
+		{
+			title: "Database",
+			skillName: "Oracle, Glassfish",
+			color: "3",
+			percentage: "60",
+		},
 		{
 			title: "Design",
 			skillName: "HTML, Bootstrap, SCSS, CSS",
