@@ -90,22 +90,31 @@ export default {
 					"https://github.com/lyrador",
 				techStack: ["Angular", "JSF", "JavaScript", "Glassfish"],
 			},
-			// {
-			// 	projectName: "WhatsApp-Bot",
-			// 	image: "images/whatsappbot.jpg",
-			// 	summary:
-			// 		"Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
-			// 	preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
-			// 	techStack: ["Selenium", "Chrome Webdriver", "Python"],
-			// },
-			// {
-			// 	projectName: "Bill Generator",
-			// 	image: "images/billgenerator.png",
-			// 	summary:
-			// 		"GUI to transfer data to excel sheets and generate bills on the local shops.",
-			// 	preview: "https://github.com/vinaysomawat/Bill-Generator",
-			// 	techStack: ["Tkinter", "Openxlpy", "Python"],
-			// },
+			{
+				projectName: "Hotel Booking System",
+				image: "images/nusociety.png",
+				summary:
+					"Hotel Booking System.",
+				preview:
+					"https://github.com/lyrador",
+				techStack: ["Java", "Glassfish"],
+			},
+			{
+				projectName: "Library Management System",
+				image: "images/library.jpg",
+				summary:
+					"Database and UI Focused Book Management Service with features regarding to fines, loans and customers.",
+				preview: "https://github.com/lyrador",
+				techStack: ["Java", "Hibernate", "SQL", "Glassfish"],
+			},
+			{
+				projectName: "Shared Cart - Shopee UltraHackathon",
+				image: "images/ultra.jpg",
+				summary:
+					"FullStack Software Application.",
+				preview: "https://github.com/lyrador",
+				techStack: ["Bootstrap", "JavaScript", "ReactJS", "Figma", "Photoshop"],
+			},
 		],
 		android: [
 			{
@@ -126,23 +135,23 @@ export default {
 			// },
 		],
 		freelance: [
-			// {
-			// 	projectName: "SnylloAir.com",
-			// 	image: "images/snylloair.png",
-			// 	summary:
-			// 		"Developed a company website to showcase the purpose, services and products provided by the company to audience.",
-			// 	preview: "https://www.snylloair.com/",
-			// 	techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
-			// },
-			// {
-			// 	projectName: "Delivery+",
-			// 	image: "images/AM-Logo-.png",
-			// 	summary:
-			// 		"Android Application to display website in android devices.",
-			// 	preview:
-			// 		"https://play.google.com/store/apps/details?id=com.americanmarket.americanmarketandroid",
-			// 	techStack: ["Android", "JAVA", "Play Store"],
-			// },
+			{
+				projectName: "Singtel SHINE LIT Challenge",
+				image: "images/ultra.jpg",
+				summary:
+					"3rd Place for LIT Challenge for Singtel High Performing Interns.",
+				preview: "https://github.com/lyrador",
+				techStack: [],
+			},
+			{
+				projectName: "NCS Thinkathon",
+				image: "images/ultra.jpg",
+				summary:
+					"--.",
+				preview:
+					"https://github.com/lyrador",
+				techStack: [],
+			},
 		],
 	},
 	experience: [
