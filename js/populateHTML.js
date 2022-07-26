@@ -197,7 +197,7 @@ function populateExp_Edu(items, id) {
 				pTimelineText.innerHTML = "&nbsp;" + "&#9656; " + items[i].details[j].substring(4);
 				pTimelineText.style.marginLeft = "25px";
 			} else {
-				pTimelineText.innerHTML = "&blacksquare; " + items[i].details[j];
+				pTimelineText.innerHTML = "&#9679; " + items[i].details[j];
 			}
 			divTimelineLabel.append(pTimelineText);
 		}

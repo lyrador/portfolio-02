@@ -68,7 +68,7 @@ export default {
 		web: [
 			{
 				projectName: "NUS Voices Website",
-				image: "images/chongjianshuguang-thumbnail.jpg",
+				image: "images/chongjianshuguang-thumbnail-S.jpg",
 				summary:
 					"Developed a front end website for my recreational mandopop club to provide more information about the club",
 				preview: "https://nusvoices.com/",
@@ -101,7 +101,7 @@ export default {
 			},
 			{
 				projectName: "Library Management System",
-				image: "images/library.jpg",
+				image: "images/library-S.jpg",
 				summary:
 					"Database and UI Focused Book Management Service with features regarding to fines, loans and customers.",
 				preview: "https://github.com/lyrador",
@@ -119,7 +119,7 @@ export default {
 		android: [
 			{
 				projectName: "Easy Delivery",
-				image: "images/easydelivery.png",
+				image: "images/easydelivery-S.png",
 				summary:
 					"An on-demand delivery application designed with an Enterprise Architecure System using Unified Modelling Diagrams (UML), including creation of high fidelity wireframs and mockups",
 				preview: "https://drive.google.com/file/d/1t8CGnyNMueAyY6JDsasN1kMrgFAfiR-A/view?usp=sharing",
@@ -160,12 +160,10 @@ export default {
 			duration: "May 2022 - Present",
 			subtitle: "Software Engineer Intern",
 			details: [
-				"Participated in 4-5 sprints, utilised Angular for front-end development and Spring, SQL and Oracle for back-end.",
-				"Translated user stories to source codes, created multiple runnable features and modularised components. ",
+				"Participated in 4-5 sprints in a large-scale Agile project, created and updated documentation (eg. acceptance criteria) in line with project's expectations.",
+				"Utilised Angular to create modularised components for front-end development, set up API and handled complex back-end logic using Spring Boot, and executed SQL queries on Oracle database with 500+ tables.. ",
 				"Rewrote outdated codes to conform to coding standards and reduced assigned flags in Fortify report by over 60%.",
 				"Carried out unit testing, integration testing and user acceptance testing, recorded results to ensure the quality of the features.",
-				"Created and updated documentation (eg. acceptance criteria) in line with project’s expectations.",
-				"Attended and passed courses on Agile Methodology and SCRUM Framework, utilising the concepts to work more effectively as a team in daily development work.",
 			],
 			tags: [
 				"JavaScript",
@@ -201,7 +199,7 @@ export default {
 		{
 			title: "Bachelor of Computing in Information Systems",
 			duration: "Aug 2020 - May 2024",
-			subtitle: "National Univerisity of Singapore, Singapore",
+			subtitle: "National University of Singapore, Singapore",
 			details: [
 				"Cumulative GPA: 4.37",
 				"Intended Specialisation Track: Financial Technology (FinTech)",
