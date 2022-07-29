@@ -111,7 +111,7 @@ export default {
 				projectName: "Shared Cart - Shopee UltraHackathon",
 				image: "images/ultra.jpg",
 				summary:
-					"Built a feature for sharing carts with others with customizable payment splitting, transitioning from an individualistic to group shopping experience, providing a platform to build community within the application.",
+					"Built a feature for sharing carts with others with customizable payment splitting, transitioning from an individualistic to group shopping experience, enhancing community building within the application.",
 				preview: "https://github.com/lyrador",
 				techStack: ["Bootstrap", "JavaScript", "ReactJS", "Figma", "Photoshop"],
 			},
