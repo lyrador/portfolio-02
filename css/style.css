@@ -1634,6 +1634,11 @@ body.offcanvas .colorlib-nav-toggle {
 		padding: 0px;
 		padding-left: 0px;
 	}
+
+	.submenu li {
+		padding: 0px;
+		padding-bottom: 100px;
+	}
 }
 
 .colorlib-bg-color {

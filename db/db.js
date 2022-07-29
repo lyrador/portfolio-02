@@ -111,7 +111,7 @@ export default {
 				projectName: "Shared Cart - Shopee UltraHackathon",
 				image: "images/ultra.jpg",
 				summary:
-					"Built a feature where users can share carts with other Shopee users with customizable payment splitting, transitioning from an individualistic to group shopping experience, providing a platform to build community within the application.",
+					"Built a feature for sharing carts with others with customizable payment splitting, transitioning from an individualistic to group shopping experience, providing a platform to build community within the application.",
 				preview: "https://github.com/lyrador",
 				techStack: ["Bootstrap", "JavaScript", "ReactJS", "Figma", "Photoshop"],
 			},
@@ -140,7 +140,7 @@ export default {
 				image: "images/shinelit.png",
 				summary:
 					"3rd Place for LIT Challenge for Singtel High Performing Interns. Presented on ways to expand the use of AR/VR technology within the Consumer Market in the context of 5G, specifically in the tourism industry.",
-				preview: "https://docs.google.com/presentation/d/1YZa32LpblQ6m9YwPceiDbAoN2i9sVIfB/edit?usp=sharing&ouid=103712037427562797190&rtpof=true&sd=true",
+				preview: "https://drive.google.com/file/d/1ildK4OuVWF4_VRi9riPmI-GdkXxpg7uO/view?usp=sharing",
 				techStack: [],
 			},
 			{
@@ -149,7 +149,7 @@ export default {
 				summary:
 					"Presented on ways hawkers benefit from the trend of food delivery and gain a bigger share of food delivery orders through an all-inclusive app which comprises of 2 main functions - directory and delivery.",
 				preview:
-					"https://github.com/lyrador",
+					"https://drive.google.com/file/d/1toWAxu7_EqkmDDo0ccTHiNxMSsx74xJ7/view?usp=sharing",
 				techStack: [],
 			},
 		],
