@@ -594,14 +594,15 @@ body.offcanvas .colorlib-nav-toggle {
 	.colorlib-about,
 	.colorlib-installation,
 	.colorlib-services,
-	.colorlib-contact {
+	.colorlib-contact,
+	.colorlib-blogs {
 		padding-top: 2em;
 		padding-bottom: 0em;
 	}
-	
+/* 	
 	.colorlib-blogs {
 		display: none;
-	}
+	} */
 }
 
 #colorlib-footer2 {

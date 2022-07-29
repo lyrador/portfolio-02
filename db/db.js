@@ -83,7 +83,7 @@ export default {
 		software: [
 			{
 				projectName: "NUS Society",
-				image: "images/nusociety.png",
+				image: "images/nusociety-S.png",
 				summary:
 					"An all-in-one co-curricular activities portal for students with management capabilities, providing a one-stop platform to explore and sign up for societies and events, networking within and across organisations.",
 				preview:
@@ -92,7 +92,7 @@ export default {
 			},
 			{
 				projectName: "Hotel Booking System",
-				image: "images/nusociety.png",
+				image: "images/hotel.jpg",
 				summary:
 					"Hotel Booking System.",
 				preview:
