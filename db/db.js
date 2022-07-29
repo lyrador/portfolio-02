@@ -94,7 +94,7 @@ export default {
 				projectName: "Hotel Booking System",
 				image: "images/hotel.jpg",
 				summary:
-					"Hotel Booking System.",
+					"This Hotel Booking System project is a distributed enterprise-scale software system, which provides features for reserving hotel rooms, checking-in, pricing calculation, exception report handling etc.",
 				preview:
 					"https://github.com/lyrador",
 				techStack: ["Java", "Glassfish"],
@@ -111,7 +111,7 @@ export default {
 				projectName: "Shared Cart - Shopee UltraHackathon",
 				image: "images/ultra.jpg",
 				summary:
-					"FullStack Software Application.",
+					"Built a feature where users can share carts with other Shopee users with customizable payment splitting, transitioning from an individualistic to group shopping experience, providing a platform to build community within the application.",
 				preview: "https://github.com/lyrador",
 				techStack: ["Bootstrap", "JavaScript", "ReactJS", "Figma", "Photoshop"],
 			},
@@ -137,17 +137,17 @@ export default {
 		freelance: [
 			{
 				projectName: "Singtel SHINE LIT Challenge",
-				image: "images/ultra.jpg",
+				image: "images/shinelit.png",
 				summary:
-					"3rd Place for LIT Challenge for Singtel High Performing Interns.",
-				preview: "https://github.com/lyrador",
+					"3rd Place for LIT Challenge for Singtel High Performing Interns. Presented on ways to expand the use of AR/VR technology within the Consumer Market in the context of 5G, specifically in the tourism industry.",
+				preview: "https://docs.google.com/presentation/d/1YZa32LpblQ6m9YwPceiDbAoN2i9sVIfB/edit?usp=sharing&ouid=103712037427562797190&rtpof=true&sd=true",
 				techStack: [],
 			},
 			{
 				projectName: "NCS Thinkathon",
-				image: "images/ultra.jpg",
+				image: "images/thinkathon.png",
 				summary:
-					"--.",
+					"Presented on ways hawkers benefit from the trend of food delivery and gain a bigger share of food delivery orders through an all-inclusive app which comprises of 2 main functions - directory and delivery.",
 				preview:
 					"https://github.com/lyrador",
 				techStack: [],
